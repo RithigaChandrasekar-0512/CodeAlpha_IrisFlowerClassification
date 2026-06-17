@@ -84,8 +84,5 @@ Compare multiple machine learning algorithms.
 Add confusion matrix and classification report.
 Deploy the model as a web application.
 Perform hyperparameter tuning for better performance.
-Author
-
-Rithiga
 
 Machine Learning Mini Project using the Iris Dataset.
